@@ -18,7 +18,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="denoise", max_results=2):
     """
     @param topic: str
     @param query: str
