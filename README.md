@@ -1,9 +1,11 @@
-## Updated on 2025.08.04
+## Updated on 2025.08.05
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-04**|**A Moment Matching-Based Method for Sparse and Noisy Point Cloud Registration**|Xingyi Li et.al.|[2508.02187v1](http://arxiv.org/abs/2508.02187v1)|
+|**2025-08-04**|**AID4AD: Aerial Image Data for Automated Driving Perception**|Daniel Lengerer et.al.|[2508.02140v1](http://arxiv.org/abs/2508.02140v1)|
 |**2025-07-31**|**The Monado SLAM Dataset for Egocentric Visual-Inertial Tracking**|Mateo de Mayo et.al.|[2508.00088v1](http://arxiv.org/abs/2508.00088v1)|
 |**2025-07-31**|**Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes**|Xiaohan Li et.al.|[2507.23677v1](http://arxiv.org/abs/2507.23677v1)|
 |**2025-07-31**|**DRACo-SLAM2: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar EquippedUnderwater Robot Teams with Object Graph Matching**|Yewei Huang et.al.|[2507.23629v1](http://arxiv.org/abs/2507.23629v1)|
@@ -12,6 +14,4 @@
 |**2025-07-30**|**UAVScenes: A Multi-Modal Dataset for UAVs**|Sijie Wang et.al.|[2507.22412v1](http://arxiv.org/abs/2507.22412v1)|
 |**2025-07-29**|**Impact of Underwater Image Enhancement on Feature Matching**|Jason M. Summers et.al.|[2507.21715v1](http://arxiv.org/abs/2507.21715v1)|
 |**2025-07-29**|**Adaptive Prior Scene-Object SLAM for Dynamic Environments**|Haolan Zhang et.al.|[2507.21709v1](http://arxiv.org/abs/2507.21709v1)|
-|**2025-07-29**|**Multi-robot LiDAR SLAM: a practical case study in underground tunnel environments**|Federica Di Lauro et.al.|[2507.21553v3](http://arxiv.org/abs/2507.21553v3)|
-|**2025-07-28**|**$S^3$LAM: Surfel Splatting SLAM for Geometrically Accurate Tracking and Mapping**|Ruoyu Fan et.al.|[2507.20854v1](http://arxiv.org/abs/2507.20854v1)|
 
