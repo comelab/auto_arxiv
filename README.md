@@ -1,9 +1,10 @@
-## Updated on 2025.08.20
+## Updated on 2025.08.21
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-08-19**|**SLAM-based Safe Indoor Exploration Strategy**|Omar Mostafa et.al.|[2508.14235v1](http://arxiv.org/abs/2508.14235v1)|
 |**2025-08-19**|**Online 3D Gaussian Splatting Modeling with Novel View Selection**|Byeonggwon Lee et.al.|[2508.14014v1](http://arxiv.org/abs/2508.14014v1)|
 |**2025-08-19**|**ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments**|Jingwen Yu et.al.|[2508.13488v1](http://arxiv.org/abs/2508.13488v1)|
 |**2025-08-14**|**Super LiDAR Reflectance for Robotic Perception**|Wei Gao et.al.|[2508.10398v1](http://arxiv.org/abs/2508.10398v1)|
@@ -13,5 +14,4 @@
 |**2025-08-06**|**Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline**|Linqing Zhao et.al.|[2508.04597v1](http://arxiv.org/abs/2508.04597v1)|
 |**2025-08-05**|**Inland-LOAM: Voxel-Based Structural Semantic Mapping for Inland Waterways**|Zhongbi Luo et.al.|[2508.03672v1](http://arxiv.org/abs/2508.03672v1)|
 |**2025-08-04**|**A Moment Matching-Based Method for Sparse and Noisy Point Cloud Registration**|Xingyi Li et.al.|[2508.02187v1](http://arxiv.org/abs/2508.02187v1)|
-|**2025-08-04**|**AID4AD: Aerial Image Data for Automated Driving Perception**|Daniel Lengerer et.al.|[2508.02140v1](http://arxiv.org/abs/2508.02140v1)|
 
