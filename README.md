@@ -1,9 +1,11 @@
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-09-09**|**Sensing with Mobile Devices through Radio SLAM: Models, Methods, Opportunities, and Challenges**|Yu Ge et.al.|[2509.07775v1](http://arxiv.org/abs/2509.07775v1)|
+|**2025-09-09**|**Robust Radar SLAM for Vehicle Parking Applications**|Luis Diener et.al.|[2509.07683v1](http://arxiv.org/abs/2509.07683v1)|
 |**2025-09-08**|**Co-Located VR with Hybrid SLAM-based HMD Tracking and Motion Capture Synchronization**|Carlos A. Pinheiro de Sousa et.al.|[2509.06582v1](http://arxiv.org/abs/2509.06582v1)|
 |**2025-09-08**|**Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation**|Ian Page et.al.|[2509.06433v1](http://arxiv.org/abs/2509.06433v1)|
 |**2025-09-06**|**LiDAR-BIND-T: Improving SLAM with Temporally Consistent Cross-Modal LiDAR Reconstruction**|Niels Balemans et.al.|[2509.05728v1](http://arxiv.org/abs/2509.05728v1)|
@@ -12,6 +14,4 @@
 |**2025-09-02**|**Coral: A Unifying Abstraction Layer for Composable Robotics Software**|Steven Swanbeck et.al.|[2509.02453v1](http://arxiv.org/abs/2509.02453v1)|
 |**2025-09-02**|**Doctoral Thesis: Geometric Deep Learning For Camera Pose Prediction, Registration, Depth Estimation, and 3D Reconstruction**|Xueyang Kang et.al.|[2509.01873v1](http://arxiv.org/abs/2509.01873v1)|
 |**2025-09-01**|**ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association**|Ganlin Zhang et.al.|[2509.01584v1](http://arxiv.org/abs/2509.01584v1)|
-|**2025-09-01**|**FGO-SLAM: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field**|Fan Zhu et.al.|[2509.01547v1](http://arxiv.org/abs/2509.01547v1)|
-|**2025-09-01**|**SR-SLAM: Scene-reliability Based RGB-D SLAM in Diverse Environments**|Haolan Zhang et.al.|[2509.01111v1](http://arxiv.org/abs/2509.01111v1)|
 
