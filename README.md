@@ -1,17 +1,17 @@
-## Updated on 2025.09.11
+## Updated on 2025.09.12
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-09-11**|**SMapper: A Multi-Modal Data Acquisition Platform for SLAM Benchmarking**|Pedro Miguel Bastos Soares et.al.|[2509.09509v1](http://arxiv.org/abs/2509.09509v1)|
+|**2025-09-11**|**S-BEVLoc: BEV-based Self-supervised Framework for Large-scale LiDAR Global Localization**|Chenghao Zhang et.al.|[2509.09110v1](http://arxiv.org/abs/2509.09110v1)|
 |**2025-09-10**|**Behaviorally Heterogeneous Multi-Agent Exploration Using Distributed Task Allocation**|Nirabhra Mandal et.al.|[2509.08242v1](http://arxiv.org/abs/2509.08242v1)|
 |**2025-09-10**|**Online Dynamic SLAM with Incremental Smoothing and Mapping**|Jesse Morris et.al.|[2509.08197v1](http://arxiv.org/abs/2509.08197v1)|
 |**2025-09-09**|**Sensing with Mobile Devices through Radio SLAM: Models, Methods, Opportunities, and Challenges**|Yu Ge et.al.|[2509.07775v1](http://arxiv.org/abs/2509.07775v1)|
 |**2025-09-09**|**Robust Radar SLAM for Vehicle Parking Applications**|Luis Diener et.al.|[2509.07683v2](http://arxiv.org/abs/2509.07683v2)|
 |**2025-09-08**|**Co-Located VR with Hybrid SLAM-based HMD Tracking and Motion Capture Synchronization**|Carlos A. Pinheiro de Sousa et.al.|[2509.06582v1](http://arxiv.org/abs/2509.06582v1)|
 |**2025-09-08**|**Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation**|Ian Page et.al.|[2509.06433v1](http://arxiv.org/abs/2509.06433v1)|
-|**2025-09-06**|**LiDAR-BIND-T: Improving SLAM with Temporally Consistent Cross-Modal LiDAR Reconstruction**|Niels Balemans et.al.|[2509.05728v1](http://arxiv.org/abs/2509.05728v1)|
+|**2025-09-06**|**LiDAR-BIND-T: Improved and Temporally Consistent Sensor Modality Translation and Fusion for Robotic Applications**|Niels Balemans et.al.|[2509.05728v2](http://arxiv.org/abs/2509.05728v2)|
 |**2025-09-04**|**Stitching the Story: Creating Panoramic Incident Summaries from Body-Worn Footage**|Dor Cohen et.al.|[2509.04370v1](http://arxiv.org/abs/2509.04370v1)|
-|**2025-09-03**|**IL-SLAM: Intelligent Line-assisted SLAM Based on Feature Awareness for Dynamic Environments**|Haolan Zhang et.al.|[2509.02972v1](http://arxiv.org/abs/2509.02972v1)|
-|**2025-09-02**|**Coral: A Unifying Abstraction Layer for Composable Robotics Software**|Steven Swanbeck et.al.|[2509.02453v1](http://arxiv.org/abs/2509.02453v1)|
 
