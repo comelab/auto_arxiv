@@ -1,9 +1,10 @@
-## Updated on 2025.09.14
+## Updated on 2025.09.15
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-09-12**|**Robust Localization in Modern Cellular Networks using Global Map Features**|Junshi Chen et.al.|[2509.10433v1](http://arxiv.org/abs/2509.10433v1)|
 |**2025-09-11**|**SMapper: A Multi-Modal Data Acquisition Platform for SLAM Benchmarking**|Pedro Miguel Bastos Soares et.al.|[2509.09509v1](http://arxiv.org/abs/2509.09509v1)|
 |**2025-09-11**|**S-BEVLoc: BEV-based Self-supervised Framework for Large-scale LiDAR Global Localization**|Chenghao Zhang et.al.|[2509.09110v1](http://arxiv.org/abs/2509.09110v1)|
 |**2025-09-10**|**Behaviorally Heterogeneous Multi-Agent Exploration Using Distributed Task Allocation**|Nirabhra Mandal et.al.|[2509.08242v1](http://arxiv.org/abs/2509.08242v1)|
@@ -13,5 +14,4 @@
 |**2025-09-08**|**Co-Located VR with Hybrid SLAM-based HMD Tracking and Motion Capture Synchronization**|Carlos A. Pinheiro de Sousa et.al.|[2509.06582v1](http://arxiv.org/abs/2509.06582v1)|
 |**2025-09-08**|**Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation**|Ian Page et.al.|[2509.06433v1](http://arxiv.org/abs/2509.06433v1)|
 |**2025-09-06**|**LiDAR-BIND-T: Improved and Temporally Consistent Sensor Modality Translation and Fusion for Robotic Applications**|Niels Balemans et.al.|[2509.05728v2](http://arxiv.org/abs/2509.05728v2)|
-|**2025-09-04**|**Stitching the Story: Creating Panoramic Incident Summaries from Body-Worn Footage**|Dor Cohen et.al.|[2509.04370v1](http://arxiv.org/abs/2509.04370v1)|
 
