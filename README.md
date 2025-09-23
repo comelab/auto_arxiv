@@ -1,9 +1,12 @@
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-09-22**|**ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos**|Shi Chen et.al.|[2509.17864v1](http://arxiv.org/abs/2509.17864v1)|
+|**2025-09-21**|**SLAM-Former: Putting SLAM into One Transformer**|Yijun Yuan et.al.|[2509.16909v1](http://arxiv.org/abs/2509.16909v1)|
+|**2025-09-21**|**ConfidentSplat: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM**|Amanuel T. Dufera et.al.|[2509.16863v1](http://arxiv.org/abs/2509.16863v1)|
 |**2025-09-19**|**SLaM-DiMM: Shared Latent Modeling for Diffusion Based Missing Modality Synthesis in MRI**|Bhavesh Sandbhor et.al.|[2509.16019v1](http://arxiv.org/abs/2509.16019v1)|
 |**2025-09-18**|**Human Interaction for Collaborative Semantic SLAM using Extended Reality**|Laura Ribeiro et.al.|[2509.14949v1](http://arxiv.org/abs/2509.14949v1)|
 |**2025-09-18**|**Event-LAB: Towards Standardized Evaluation of Neuromorphic Localization Methods**|Adam D. Hines et.al.|[2509.14516v1](http://arxiv.org/abs/2509.14516v1)|
@@ -11,7 +14,4 @@
 |**2025-09-17**|**BIM Informed Visual SLAM for Construction Monitoring**|Asier Bikandi et.al.|[2509.13972v1](http://arxiv.org/abs/2509.13972v1)|
 |**2025-09-16**|**Semantic 3D Reconstructions with SLAM for Central Airway Obstruction**|Ayberk Acar et.al.|[2509.13541v1](http://arxiv.org/abs/2509.13541v1)|
 |**2025-09-16**|**MemGS: Memory-Efficient Gaussian Splatting for Real-Time SLAM**|Yinlong Bai et.al.|[2509.13536v1](http://arxiv.org/abs/2509.13536v1)|
-|**2025-09-16**|**MATTER: Multiscale Attention for Registration Error Regression**|Shipeng Liu et.al.|[2509.12924v2](http://arxiv.org/abs/2509.12924v2)|
-|**2025-09-16**|**Match Chat: Real Time Generative AI and Generative Computing for Tennis**|Aaron Baughman et.al.|[2509.12592v1](http://arxiv.org/abs/2509.12592v1)|
-|**2025-09-15**|**See What I Mean? Mobile Eye-Perspective Rendering for Optical See-through Head-mounted Displays**|Gerlinde Emsenhuber et.al.|[2509.11653v1](http://arxiv.org/abs/2509.11653v1)|
 
