@@ -1,9 +1,12 @@
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219v1](http://arxiv.org/abs/2510.06219v1)|
+|**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216v1](http://arxiv.org/abs/2510.06216v1)|
+|**2025-10-07**|**Coordinate-Consistent Localization via Continuous-Time Calibration and Fusion of UWB and SLAM Observations**|Tien-Dat Nguyen et.al.|[2510.05992v1](http://arxiv.org/abs/2510.05992v1)|
 |**2025-10-06**|**OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS**|Simon Boche et.al.|[2510.04612v1](http://arxiv.org/abs/2510.04612v1)|
 |**2025-10-02**|**RSV-SLAM: Toward Real-Time Semantic Visual SLAM in Indoor Dynamic Environments**|Mobin Habibpour et.al.|[2510.02616v1](http://arxiv.org/abs/2510.02616v1)|
 |**2025-10-02**|**EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction**|Lingxiang Hu et.al.|[2510.02080v1](http://arxiv.org/abs/2510.02080v1)|
@@ -11,7 +14,4 @@
 |**2025-10-01**|**Instant4D: 4D Gaussian Splatting in Minutes**|Zhanpeng Luo et.al.|[2510.01119v1](http://arxiv.org/abs/2510.01119v1)|
 |**2025-10-01**|**Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions**|Thanh Nguyen Canh et.al.|[2510.00783v1](http://arxiv.org/abs/2510.00783v1)|
 |**2025-09-30**|**Benchmarking Egocentric Visual-Inertial SLAM at City Scale**|Anusha Krishnan et.al.|[2509.26639v1](http://arxiv.org/abs/2509.26639v1)|
-|**2025-09-30**|**Graphite: A GPU-Accelerated Mixed-Precision Graph Optimization Framework**|Shishir Gopinath et.al.|[2509.26581v1](http://arxiv.org/abs/2509.26581v1)|
-|**2025-09-30**|**Radio-based Multi-Robot Odometry and Relative Localization**|Andrés Martínez-Silva et.al.|[2509.26558v1](http://arxiv.org/abs/2509.26558v1)|
-|**2025-09-30**|**DEPTHOR++: Robust Depth Enhancement from a Real-World Lightweight dToF and RGB Guidance**|Jijun Xiang et.al.|[2509.26498v1](http://arxiv.org/abs/2509.26498v1)|
 
