@@ -1,9 +1,10 @@
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-08**|**RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction**|Leshu Li et.al.|[2510.06644v1](http://arxiv.org/abs/2510.06644v1)|
 |**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219v1](http://arxiv.org/abs/2510.06219v1)|
 |**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216v1](http://arxiv.org/abs/2510.06216v1)|
 |**2025-10-07**|**Coordinate-Consistent Localization via Continuous-Time Calibration and Fusion of UWB and SLAM Observations**|Tien-Dat Nguyen et.al.|[2510.05992v1](http://arxiv.org/abs/2510.05992v1)|
@@ -13,5 +14,4 @@
 |**2025-10-02**|**Non-Rigid Structure-from-Motion via Differential Geometry with Recoverable Conformal Scale**|Yongbo Chen et.al.|[2510.01665v1](http://arxiv.org/abs/2510.01665v1)|
 |**2025-10-01**|**Instant4D: 4D Gaussian Splatting in Minutes**|Zhanpeng Luo et.al.|[2510.01119v1](http://arxiv.org/abs/2510.01119v1)|
 |**2025-10-01**|**Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions**|Thanh Nguyen Canh et.al.|[2510.00783v1](http://arxiv.org/abs/2510.00783v1)|
-|**2025-09-30**|**Benchmarking Egocentric Visual-Inertial SLAM at City Scale**|Anusha Krishnan et.al.|[2509.26639v1](http://arxiv.org/abs/2509.26639v1)|
 
