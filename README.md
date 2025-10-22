@@ -1,10 +1,10 @@
-## Updated on 2025.10.21
+## Updated on 2025.10.22
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-10-20**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422v1](http://arxiv.org/abs/2510.17422v1)|
+|**2025-10-20**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422v2](http://arxiv.org/abs/2510.17422v2)|
 |**2025-10-18**|**LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching**|Aidyn Ubingazhibov et.al.|[2510.16438v1](http://arxiv.org/abs/2510.16438v1)|
 |**2025-10-17**|**VAR-SLAM: Visual Adaptive and Robust SLAM for Dynamic Environments**|João Carlos Virgolino Soares et.al.|[2510.16205v1](http://arxiv.org/abs/2510.16205v1)|
 |**2025-10-17**|**Dynamic Recalibration in LiDAR SLAM: Integrating AI and Geometric Methods with Real-Time Feedback Using INAF Fusion**|Zahra Arjmandi et.al.|[2510.15803v1](http://arxiv.org/abs/2510.15803v1)|
