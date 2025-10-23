@@ -1,9 +1,10 @@
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-21**|**Underwater Dense Mapping with the First Compact 3D Sonar**|Chinmay Burgul et.al.|[2510.18991v1](http://arxiv.org/abs/2510.18991v1)|
 |**2025-10-20**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422v2](http://arxiv.org/abs/2510.17422v2)|
 |**2025-10-18**|**LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching**|Aidyn Ubingazhibov et.al.|[2510.16438v1](http://arxiv.org/abs/2510.16438v1)|
 |**2025-10-17**|**VAR-SLAM: Visual Adaptive and Robust SLAM for Dynamic Environments**|João Carlos Virgolino Soares et.al.|[2510.16205v1](http://arxiv.org/abs/2510.16205v1)|
@@ -13,5 +14,4 @@
 |**2025-10-15**|**Accelerated Feature Detectors for Visual SLAM: A Comparative Study of FPGA vs GPU**|Ruiqi Ye et.al.|[2510.13546v1](http://arxiv.org/abs/2510.13546v1)|
 |**2025-10-15**|**Through the Lens of Doubt: Robust and Efficient Uncertainty Estimation for Visual Place Recognition**|Emily Miller et.al.|[2510.13464v1](http://arxiv.org/abs/2510.13464v1)|
 |**2025-10-15**|**DAMM-LOAM: Degeneracy Aware Multi-Metric LiDAR Odometry and Mapping**|Nishant Chandna et.al.|[2510.13287v1](http://arxiv.org/abs/2510.13287v1)|
-|**2025-10-09**|**ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation**|Guanghao Li et.al.|[2510.08551v1](http://arxiv.org/abs/2510.08551v1)|
 
