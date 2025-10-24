@@ -1,9 +1,10 @@
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-23**|**Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation**|Marziyeh Bamdad et.al.|[2510.20549v1](http://arxiv.org/abs/2510.20549v1)|
 |**2025-10-21**|**Underwater Dense Mapping with the First Compact 3D Sonar**|Chinmay Burgul et.al.|[2510.18991v1](http://arxiv.org/abs/2510.18991v1)|
 |**2025-10-20**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422v2](http://arxiv.org/abs/2510.17422v2)|
 |**2025-10-18**|**LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching**|Aidyn Ubingazhibov et.al.|[2510.16438v1](http://arxiv.org/abs/2510.16438v1)|
@@ -13,5 +14,4 @@
 |**2025-10-16**|**3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation**|JoungBin Lee et.al.|[2510.14945v1](http://arxiv.org/abs/2510.14945v1)|
 |**2025-10-15**|**Accelerated Feature Detectors for Visual SLAM: A Comparative Study of FPGA vs GPU**|Ruiqi Ye et.al.|[2510.13546v1](http://arxiv.org/abs/2510.13546v1)|
 |**2025-10-15**|**Through the Lens of Doubt: Robust and Efficient Uncertainty Estimation for Visual Place Recognition**|Emily Miller et.al.|[2510.13464v1](http://arxiv.org/abs/2510.13464v1)|
-|**2025-10-15**|**DAMM-LOAM: Degeneracy Aware Multi-Metric LiDAR Odometry and Mapping**|Nishant Chandna et.al.|[2510.13287v1](http://arxiv.org/abs/2510.13287v1)|
 
