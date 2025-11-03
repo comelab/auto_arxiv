@@ -1,9 +1,10 @@
-## Updated on 2025.11.02
+## Updated on 2025.11.03
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-10-31**|**WildfireX-SLAM: A Large-scale Low-altitude RGB-D Dataset for Wildfire SLAM and Beyond**|Zhicong Sun et.al.|[2510.27133v1](http://arxiv.org/abs/2510.27133v1)|
 |**2025-10-30**|**AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM**|Mirko Usuelli et.al.|[2510.26358v1](http://arxiv.org/abs/2510.26358v1)|
 |**2025-10-30**|**Exploring Object-Aware Attention Guided Frame Association for RGB-D SLAM**|Ali Caglayan et.al.|[2510.26131v1](http://arxiv.org/abs/2510.26131v1)|
 |**2025-10-28**|**Spatiotemporal Calibration of Doppler Velocity Logs for Underwater Robots**|Hongxu Zhao et.al.|[2510.24571v1](http://arxiv.org/abs/2510.24571v1)|
@@ -13,5 +14,4 @@
 |**2025-10-26**|**Policies over Poses: Reinforcement Learning based Distributed Pose-Graph Optimization for Multi-Robot SLAM**|Sai Krishna Ghanta et.al.|[2510.22740v1](http://arxiv.org/abs/2510.22740v1)|
 |**2025-10-26**|**LVD-GS: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering**|Wenkai Zhu et.al.|[2510.22669v1](http://arxiv.org/abs/2510.22669v1)|
 |**2025-10-26**|**RoGER-SLAM: A Robust Gaussian Splatting SLAM System for Noisy and Low-light Environment Resilience**|Huilin Yin et.al.|[2510.22600v1](http://arxiv.org/abs/2510.22600v1)|
-|**2025-10-26**|**UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models**|Wenming Tu et.al.|[2510.22588v1](http://arxiv.org/abs/2510.22588v1)|
 
