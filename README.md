@@ -1,9 +1,10 @@
-## Updated on 2025.11.16
+## Updated on 2025.11.17
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-12**|**DualVision ArthroNav: Investigating Opportunities to Enhance Localization and Reconstruction in Image-based Arthroscopy Navigation via External Cameras**|Hongchao Shu et.al.|[2511.10699v1](http://arxiv.org/abs/2511.10699v1)|
 |**2025-11-12**|**Generation-Agnostic Zero-Energy Devices for Sustainable Connectivity, Sensing, and Localization**|Navid Amani et.al.|[2511.09372v1](http://arxiv.org/abs/2511.09372v1)|
 |**2025-11-12**|**UMIGen: A Unified Framework for Egocentric Point Cloud Generation and Cross-Embodiment Robotic Imitation Learning**|Yan Huang et.al.|[2511.09302v1](http://arxiv.org/abs/2511.09302v1)|
 |**2025-11-10**|**Integration of Visual SLAM into Consumer-Grade Automotive Localization**|Luis Diener et.al.|[2511.06919v1](http://arxiv.org/abs/2511.06919v1)|
@@ -13,5 +14,4 @@
 |**2025-11-07**|**Multi-modal Loop Closure Detection with Foundation Models in Severely Unstructured Environments**|Laura Alejandra Encinar Gonzalez et.al.|[2511.05404v1](http://arxiv.org/abs/2511.05404v1)|
 |**2025-11-06**|**Synchronous Observer Design for Landmark-Inertial SLAM with Almost-Global Convergence**|Arkadeep Saha et.al.|[2511.04531v1](http://arxiv.org/abs/2511.04531v1)|
 |**2025-11-06**|**PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration**|Yizhen Yin et.al.|[2511.04180v1](http://arxiv.org/abs/2511.04180v1)|
-|**2025-11-04**|**Analytical modelling of a stop-less modular bus service with an application to charging strategies comparison**|Haoran Zhao et.al.|[2511.03754v1](http://arxiv.org/abs/2511.03754v1)|
 
