@@ -1,9 +1,10 @@
-## Updated on 2025.11.19
+## Updated on 2025.11.20
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597v1](http://arxiv.org/abs/2511.15597v1)|
 |**2025-11-18**|**SLAM-AGS: Slide-Label Aware Multi-Task Pretraining Using Adaptive Gradient Surgery in Computational Cytology**|Marco Acerbis et.al.|[2511.14639v1](http://arxiv.org/abs/2511.14639v1)|
 |**2025-11-18**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335v1](http://arxiv.org/abs/2511.14335v1)|
 |**2025-11-18**|**MA-SLAM: Active SLAM in Large-Scale Unknown Environment using Map Aware Deep Reinforcement Learning**|Yizhen Yin et.al.|[2511.14330v1](http://arxiv.org/abs/2511.14330v1)|
@@ -13,5 +14,4 @@
 |**2025-11-14**|**Autonomous Underwater Cognitive System for Adaptive Navigation: A SLAM-Integrated Cognitive Architecture**|K. A. I. N Jayarathne et.al.|[2511.11845v1](http://arxiv.org/abs/2511.11845v1)|
 |**2025-11-12**|**DualVision ArthroNav: Investigating Opportunities to Enhance Localization and Reconstruction in Image-based Arthroscopy Navigation via External Cameras**|Hongchao Shu et.al.|[2511.10699v1](http://arxiv.org/abs/2511.10699v1)|
 |**2025-11-12**|**Generation-Agnostic Zero-Energy Devices for Sustainable Connectivity, Sensing, and Localization**|Navid Amani et.al.|[2511.09372v1](http://arxiv.org/abs/2511.09372v1)|
-|**2025-11-12**|**UMIGen: A Unified Framework for Egocentric Point Cloud Generation and Cross-Embodiment Robotic Imitation Learning**|Yan Huang et.al.|[2511.09302v1](http://arxiv.org/abs/2511.09302v1)|
 
