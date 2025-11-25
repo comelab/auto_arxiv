@@ -1,17 +1,17 @@
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-24**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Haihang Wu et.al.|[2511.19031v1](http://arxiv.org/abs/2511.19031v1)|
+|**2025-11-24**|**SP-VINS: A Hybrid Stereo Visual Inertial Navigation System based on Implicit Environmental Map**|Xueyu Du et.al.|[2511.18756v1](http://arxiv.org/abs/2511.18756v1)|
+|**2025-11-24**|**Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing**|Xiaotong Huang et.al.|[2511.18755v1](http://arxiv.org/abs/2511.18755v1)|
+|**2025-11-24**|**Stable Multi-Drone GNSS Tracking System for Marine Robots**|Shuo Wen et.al.|[2511.18694v1](http://arxiv.org/abs/2511.18694v1)|
+|**2025-11-23**|**Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span**|Heeseung Yun et.al.|[2511.18470v1](http://arxiv.org/abs/2511.18470v1)|
+|**2025-11-22**|**Unobservable Subspace Evolution and Alignment for Consistent Visual-Inertial Navigation**|Chungeng Tian et.al.|[2511.17992v1](http://arxiv.org/abs/2511.17992v1)|
+|**2025-11-21**|**Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?**|Dingrui Wang et.al.|[2511.17792v1](http://arxiv.org/abs/2511.17792v1)|
 |**2025-11-21**|**MonoSpheres: Large-Scale Monocular SLAM-Based UAV Exploration through Perception-Coupled Mapping and Planning**|Tomáš Musil et.al.|[2511.17299v1](http://arxiv.org/abs/2511.17299v1)|
 |**2025-11-21**|**SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors**|Kunyi Li et.al.|[2511.17207v1](http://arxiv.org/abs/2511.17207v1)|
 |**2025-11-20**|**CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering**|Joni Vanherck et.al.|[2511.16349v1](http://arxiv.org/abs/2511.16349v1)|
-|**2025-11-20**|**Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM**|Gergely Dinya et.al.|[2511.16282v1](http://arxiv.org/abs/2511.16282v1)|
-|**2025-11-20**|**LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM**|Sibaek Lee et.al.|[2511.16144v1](http://arxiv.org/abs/2511.16144v1)|
-|**2025-11-20**|**Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2511.16091v1](http://arxiv.org/abs/2511.16091v1)|
-|**2025-11-20**|**Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud**|Qing Zhang et.al.|[2511.16048v1](http://arxiv.org/abs/2511.16048v1)|
-|**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597v1](http://arxiv.org/abs/2511.15597v1)|
-|**2025-11-18**|**SLAM-AGS: Slide-Label Aware Multi-Task Pretraining Using Adaptive Gradient Surgery in Computational Cytology**|Marco Acerbis et.al.|[2511.14639v1](http://arxiv.org/abs/2511.14639v1)|
-|**2025-11-18**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335v1](http://arxiv.org/abs/2511.14335v1)|
 
