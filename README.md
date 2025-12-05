@@ -1,9 +1,10 @@
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772v1](http://arxiv.org/abs/2512.04772v1)|
 |**2025-12-03**|**What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models**|Tianchen Deng et.al.|[2512.03422v1](http://arxiv.org/abs/2512.03422v1)|
 |**2025-12-02**|**VIGS-SLAM: Visual Inertial Gaussian Splatting SLAM**|Zihan Zhu et.al.|[2512.02293v1](http://arxiv.org/abs/2512.02293v1)|
 |**2025-12-01**|**KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**|Zaid Nasser et.al.|[2512.01889v1](http://arxiv.org/abs/2512.01889v1)|
@@ -13,5 +14,4 @@
 |**2025-11-30**|**Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping**|Adelina Giurea et.al.|[2512.01018v1](http://arxiv.org/abs/2512.01018v1)|
 |**2025-11-30**|**EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes**|Xiaoshan Wu et.al.|[2512.00771v1](http://arxiv.org/abs/2512.00771v1)|
 |**2025-11-28**|**Robust 3DGS-based SLAM via Adaptive Kernel Smoothing**|Shouhe Zhang et.al.|[2511.23221v1](http://arxiv.org/abs/2511.23221v1)|
-|**2025-11-28**|**Design loads for wave impacts -- introducing the Probabilistic Adaptive Screening (PAS) method for predicting extreme non-linear loads on maritime structures**|Sanne M. van Essen et.al.|[2511.23156v2](http://arxiv.org/abs/2511.23156v2)|
 
