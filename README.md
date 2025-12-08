@@ -1,9 +1,10 @@
-## Updated on 2025.12.07
+## Updated on 2025.12.08
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-04**|**ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety**|Ahmad Yehia et.al.|[2512.05299v1](http://arxiv.org/abs/2512.05299v1)|
 |**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772v1](http://arxiv.org/abs/2512.04772v1)|
 |**2025-12-03**|**What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models**|Tianchen Deng et.al.|[2512.03422v1](http://arxiv.org/abs/2512.03422v1)|
 |**2025-12-02**|**VIGS-SLAM: Visual Inertial Gaussian Splatting SLAM**|Zihan Zhu et.al.|[2512.02293v1](http://arxiv.org/abs/2512.02293v1)|
@@ -13,5 +14,4 @@
 |**2025-12-01**|**EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly**|Xiaokun Pan et.al.|[2512.01296v1](http://arxiv.org/abs/2512.01296v1)|
 |**2025-11-30**|**Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping**|Adelina Giurea et.al.|[2512.01018v1](http://arxiv.org/abs/2512.01018v1)|
 |**2025-11-30**|**EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes**|Xiaoshan Wu et.al.|[2512.00771v1](http://arxiv.org/abs/2512.00771v1)|
-|**2025-11-28**|**Robust 3DGS-based SLAM via Adaptive Kernel Smoothing**|Shouhe Zhang et.al.|[2511.23221v1](http://arxiv.org/abs/2511.23221v1)|
 
