@@ -1,9 +1,12 @@
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-13**|**INDOOR-LiDAR: Bridging Simulation and Reality for Robot-Centric 360 degree Indoor LiDAR Perception -- A Robot-Centric Hybrid Dataset**|Haichuan Li et.al.|[2512.12377v1](http://arxiv.org/abs/2512.12377v1)|
+|**2025-12-13**|**Semantic Zone based 3D Map Management for Mobile Robot**|Huichang Yun et.al.|[2512.12228v1](http://arxiv.org/abs/2512.12228v1)|
+|**2025-12-13**|**Navigation Around Unknown Space Objects Using Visible-Thermal Image Fusion**|Eric J. Elias et.al.|[2512.12203v1](http://arxiv.org/abs/2512.12203v1)|
 |**2025-12-11**|**Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks**|Gaozhao Wang et.al.|[2512.10481v1](http://arxiv.org/abs/2512.10481v1)|
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360v1](http://arxiv.org/abs/2512.10360v1)|
 |**2025-12-10**|**Inertial Magnetic SLAM Systems Using Low-Cost Sensors**|Chuan Huang et.al.|[2512.10128v1](http://arxiv.org/abs/2512.10128v1)|
@@ -11,7 +14,4 @@
 |**2025-12-10**|**D$^2$GSLAM: 4D Dynamic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2512.09411v1](http://arxiv.org/abs/2512.09411v1)|
 |**2025-12-09**|**A Sensor-Aware Phenomenological Framework for Lidar Degradation Simulation and SLAM Robustness Evaluation**|Doumegna Mawuto Koudjo Felix et.al.|[2512.08653v1](http://arxiv.org/abs/2512.08653v1)|
 |**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[2512.08625v1](http://arxiv.org/abs/2512.08625v1)|
-|**2025-12-08**|**Sparse Variable Projection in Robotic Perception: Exploiting Separable Structure for Efficient Nonlinear Optimization**|Alan Papalia et.al.|[2512.07969v1](http://arxiv.org/abs/2512.07969v1)|
-|**2025-12-08**|**OptMap: Geometric Map Distillation via Submodular Maximization**|David Thorne et.al.|[2512.07775v1](http://arxiv.org/abs/2512.07775v1)|
-|**2025-12-08**|**Spatiotemporal Calibration and Ground Truth Estimation for High-Precision SLAM Benchmarking in Extended Reality**|Zichao Shu et.al.|[2512.07221v1](http://arxiv.org/abs/2512.07221v1)|
 
