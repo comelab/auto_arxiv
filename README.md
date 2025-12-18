@@ -1,9 +1,12 @@
-## Updated on 2025.12.17
+## Updated on 2025.12.18
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716v1](http://arxiv.org/abs/2512.15716v1)|
+|**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080v1](http://arxiv.org/abs/2512.15080v1)|
+|**2025-12-17**|**A Parameter-Free Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals**|Qi Wang et.al.|[2512.14979v1](http://arxiv.org/abs/2512.14979v1)|
 |**2025-12-16**|**Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations**|Aaron Kurda et.al.|[2512.14428v1](http://arxiv.org/abs/2512.14428v1)|
 |**2025-12-16**|**Field evaluation and optimization of a lightweight lidar-based UAV navigation system for dense boreal forest environments**|Aleksi Karhunen et.al.|[2512.14340v1](http://arxiv.org/abs/2512.14340v1)|
 |**2025-12-16**|**SUPER -- A Framework for Sensitivity-based Uncertainty-aware Performance and Risk Assessment in Visual Inertial Odometry**|Johannes A. Gaus et.al.|[2512.14189v1](http://arxiv.org/abs/2512.14189v1)|
@@ -11,7 +14,4 @@
 |**2025-12-16**|**Deep Learning Perspective of Scene Understanding in Autonomous Robots**|Afia Maham et.al.|[2512.14020v1](http://arxiv.org/abs/2512.14020v1)|
 |**2025-12-16**|**Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM Pipeline**|Hossein Naderi et.al.|[2512.13974v1](http://arxiv.org/abs/2512.13974v1)|
 |**2025-12-13**|**INDOOR-LiDAR: Bridging Simulation and Reality for Robot-Centric 360 degree Indoor LiDAR Perception -- A Robot-Centric Hybrid Dataset**|Haichuan Li et.al.|[2512.12377v1](http://arxiv.org/abs/2512.12377v1)|
-|**2025-12-13**|**Semantic Zone based 3D Map Management for Mobile Robot**|Huichang Yun et.al.|[2512.12228v1](http://arxiv.org/abs/2512.12228v1)|
-|**2025-12-13**|**Navigation Around Unknown Space Objects Using Visible-Thermal Image Fusion**|Eric J. Elias et.al.|[2512.12203v1](http://arxiv.org/abs/2512.12203v1)|
-|**2025-12-11**|**Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks**|Gaozhao Wang et.al.|[2512.10481v1](http://arxiv.org/abs/2512.10481v1)|
 
