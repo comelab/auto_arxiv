@@ -1,11 +1,12 @@
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-31**|**FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM**|Yuchen Wu et.al.|[2512.25008v1](http://arxiv.org/abs/2512.25008v1)|
 |**2025-12-27**|**Mesquite MoCap: Democratizing Real-Time Motion Capture with Affordable, Bodyworn IoT Sensors and WebXR SLAM**|Poojan Vanani et.al.|[2512.22690v1](http://arxiv.org/abs/2512.22690v1)|
-|**2025-12-26**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393v1](http://arxiv.org/abs/2512.22393v1)|
+|**2025-12-26**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393v2](http://arxiv.org/abs/2512.22393v2)|
 |**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573v1](http://arxiv.org/abs/2512.21573v1)|
 |**2025-12-23**|**FAR-AVIO: Fast and Robust Schur-Complement Based Acoustic-Visual-Inertial Fusion Odometry with Sensor Calibration**|Hao Wei et.al.|[2512.20355v2](http://arxiv.org/abs/2512.20355v2)|
 |**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461v1](http://arxiv.org/abs/2512.16461v1)|
@@ -13,5 +14,4 @@
 |**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080v1](http://arxiv.org/abs/2512.15080v1)|
 |**2025-12-17**|**A Parameter-Free Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals**|Qi Wang et.al.|[2512.14979v1](http://arxiv.org/abs/2512.14979v1)|
 |**2025-12-16**|**Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations**|Aaron Kurda et.al.|[2512.14428v1](http://arxiv.org/abs/2512.14428v1)|
-|**2025-12-16**|**Field evaluation and optimization of a lightweight lidar-based UAV navigation system for dense boreal forest environments**|Aleksi Karhunen et.al.|[2512.14340v1](http://arxiv.org/abs/2512.14340v1)|
 
