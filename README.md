@@ -1,10 +1,12 @@
-## Updated on 2026.01.04
+## Updated on 2026.01.05
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-12-31**|**FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM**|Yuchen Wu et.al.|[2512.25008v1](http://arxiv.org/abs/2512.25008v1)|
+|**2025-12-28**|**RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization**|Wei-Tse Cheng et.al.|[2601.00705v1](http://arxiv.org/abs/2601.00705v1)|
+|**2026-01-02**|**Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation**|Varun Agrawal et.al.|[2601.00545v1](http://arxiv.org/abs/2601.00545v1)|
+|**2025-12-31**|**FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM**|Yuchen Wu et.al.|[2512.25008v2](http://arxiv.org/abs/2512.25008v2)|
 |**2025-12-27**|**Mesquite MoCap: Democratizing Real-Time Motion Capture with Affordable, Bodyworn IoT Sensors and WebXR SLAM**|Poojan Vanani et.al.|[2512.22690v1](http://arxiv.org/abs/2512.22690v1)|
 |**2025-12-26**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393v2](http://arxiv.org/abs/2512.22393v2)|
 |**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573v1](http://arxiv.org/abs/2512.21573v1)|
@@ -12,6 +14,4 @@
 |**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461v1](http://arxiv.org/abs/2512.16461v1)|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716v1](http://arxiv.org/abs/2512.15716v1)|
 |**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080v1](http://arxiv.org/abs/2512.15080v1)|
-|**2025-12-17**|**A Parameter-Free Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals**|Qi Wang et.al.|[2512.14979v1](http://arxiv.org/abs/2512.14979v1)|
-|**2025-12-16**|**Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations**|Aaron Kurda et.al.|[2512.14428v1](http://arxiv.org/abs/2512.14428v1)|
 
