@@ -1,4 +1,4 @@
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 
 ## SLAM
 
@@ -8,7 +8,7 @@
 |**2026-01-18**|**R-VoxelMap: Accurate Voxel Mapping with Recursive Plane Fitting for Online LiDAR Odometry**|Haobo Xi et.al.|[2601.12377v1](http://arxiv.org/abs/2601.12377v1)|
 |**2026-01-10**|**PointSLAM++: Robust Dense Neural Gaussian Point Cloud-based SLAM**|Xu Wang et.al.|[2601.11617v1](http://arxiv.org/abs/2601.11617v1)|
 |**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[2601.11514v1](http://arxiv.org/abs/2601.11514v1)|
-|**2026-01-15**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814v1](http://arxiv.org/abs/2601.10814v1)|
+|**2026-01-15**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814v2](http://arxiv.org/abs/2601.10814v2)|
 |**2026-01-14**|**SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings**|Yuchen Wu et.al.|[2601.09665v1](http://arxiv.org/abs/2601.09665v1)|
 |**2026-01-14**|**Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping**|Jiajun Sun et.al.|[2601.09578v1](http://arxiv.org/abs/2601.09578v1)|
 |**2026-01-14**|**SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing**|Ziyang Ma et.al.|[2601.09385v1](http://arxiv.org/abs/2601.09385v1)|
