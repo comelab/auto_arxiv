@@ -1,11 +1,11 @@
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397v1](http://arxiv.org/abs/2603.05397v1)|
-|**2026-03-05**|**AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model**|Jinwoo Jeon et.al.|[2603.05097v1](http://arxiv.org/abs/2603.05097v1)|
+|**2026-03-05**|**AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model**|Jinwoo Jeon et.al.|[2603.05097v2](http://arxiv.org/abs/2603.05097v2)|
 |**2026-03-04**|**HBRB-BoW: A Retrained Bag-of-Words Vocabulary for ORB-SLAM via Hierarchical BRB-KMeans**|Minjae Lee et.al.|[2603.04144v1](http://arxiv.org/abs/2603.04144v1)|
 |**2026-03-03**|**Probabilistic Occupancy Grid for Radio-Based SLAM**|Xuhong Li et.al.|[2603.03559v1](http://arxiv.org/abs/2603.03559v1)|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985v1](http://arxiv.org/abs/2603.02985v1)|
