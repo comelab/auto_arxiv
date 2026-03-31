@@ -1,17 +1,17 @@
-## Updated on 2026.03.28
+## Updated on 2026.03.31
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-30**|**Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal**|Kazuma Ikeda et.al.|[2603.28224v1](http://arxiv.org/abs/2603.28224v1)|
+|**2026-03-30**|**On the Role of Encoder Depth: Pruning Whisper and LoRA Fine-Tuning in SLAM-ASR**|Ganesh Pavan Kartikeya Bharadwaj Kolluri et.al.|[2603.27981v1](http://arxiv.org/abs/2603.27981v1)|
+|**2026-03-29**|**GS3LAM: Gaussian Semantic Splatting SLAM**|Linfei Li et.al.|[2603.27781v1](http://arxiv.org/abs/2603.27781v1)|
+|**2026-03-26**|**Unblur-SLAM: Dense Neural SLAM for Blurry Inputs**|Qi Zhang et.al.|[2603.26810v1](http://arxiv.org/abs/2603.26810v1)|
+|**2026-03-26**|**Massive Parallel Deep Reinforcement Learning for Active SLAM**|Martín Arce Llobera et.al.|[2603.25834v1](http://arxiv.org/abs/2603.25834v1)|
+|**2026-03-26**|**Occlusion-Aware Multimodal Beam Prediction and Pose Estimation for mmWave V2I**|Abidemi Orimogunje et.al.|[2603.25799v1](http://arxiv.org/abs/2603.25799v1)|
 |**2026-03-24**|**Digital Twin Enabled Simultaneous Learning and Modeling for UAV-assisted Secure Communications with Eavesdropping Attacks**|Jieting Yuan et.al.|[2603.22753v1](http://arxiv.org/abs/2603.22753v1)|
 |**2026-03-24**|**Variable-Resolution Virtual Maps for Autonomous Exploration with Unmanned Surface Vehicles (USVs)**|Ye Li et.al.|[2603.22667v1](http://arxiv.org/abs/2603.22667v1)|
 |**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055v1](http://arxiv.org/abs/2603.21055v1)|
 |**2026-03-21**|**Implementing Robust M-Estimators with Certifiable Factor Graph Optimization**|Zhexin Xu et.al.|[2603.20932v1](http://arxiv.org/abs/2603.20932v1)|
-|**2026-03-21**|**ToFormer: Towards Large-scale Scenario Depth Completion for Lightweight ToF Camera**|Juncheng Chen et.al.|[2603.20669v1](http://arxiv.org/abs/2603.20669v1)|
-|**2026-03-20**|**TRGS-SLAM: IMU-Aided Gaussian Splatting SLAM for Blurry, Rolling Shutter, and Noisy Thermal Images**|Spencer Carmichael et.al.|[2603.20443v1](http://arxiv.org/abs/2603.20443v1)|
-|**2026-03-20**|**HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels**|Shuoyuan Xu et.al.|[2603.20150v3](http://arxiv.org/abs/2603.20150v3)|
-|**2026-03-20**|**IUP-Pose: Decoupled Iterative Uncertainty Propagation for Real-time Relative Pose Regression via Implicit Dense Alignment v1**|Jun Wang et.al.|[2603.19625v1](http://arxiv.org/abs/2603.19625v1)|
-|**2026-03-19**|**DROID-SLAM in the Wild**|Moyang Li et.al.|[2603.19076v1](http://arxiv.org/abs/2603.19076v1)|
-|**2026-03-19**|**ROFT-VINS: Robust Feature Tracking-based Visual-Inertial State Estimation for Harsh Environment**|Sanghyun Park et.al.|[2603.18746v1](http://arxiv.org/abs/2603.18746v1)|
 
